@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+
+.payment{
+    width: 500px;
+    height: 310px;
+    margin: 10px;
+    display: flex;
+    background: rgba(0,0,0,0.3);
+    border-radius: 20px;
+}
+
+.vhclinfo{
+	width: 500px;
+	height: 310px;
+	margin: 10px;
+	display: flex;
+	background: rgba(0,0,0,0.3);
+	border-radius: 20px;
+}
+
+.header{
+	width: 575px;
+	height: 30px;
+	margin-top: 10px;
+	display: flex;
+	justify-content: center;
+	align-content: center;
+}
+
+#echart{
+	display: flex;
+	min-height: 400px;
+	margin-right: 45px;
+}
+

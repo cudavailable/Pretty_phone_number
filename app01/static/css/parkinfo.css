@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+.r_b_t{
+	position: absolute;
+	width: 344px;
+	height: 30px;
+	margin: 5px auto;
+	align-content: center;
+	text-align: center;
+	font: 700 16px '';
+	color: chartreuse;
+}
+
+.parkinfo{
+    width: 180px;
+    height: 180px;
+	margin: 45px auto;
+    border-radius: 50%;
+    background-color: antiquewhite;
+	background: conic-gradient(#2dc2dc 30deg, #2dc2dc 65deg, #d4ec59 65deg, #d4ec59 110deg, #fcb74d 110deg, #fcb74d 200deg, #fde78d 200deg);
+}
